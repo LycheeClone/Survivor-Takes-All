@@ -13,6 +13,7 @@ TagManager:
   - SpawnPoint1
   - SpawnPoint2
   - SpawnPoint3
+  - DeadZone
   layers:
   - Default
   - TransparentFX
